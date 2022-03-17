@@ -1,0 +1,5 @@
+package com.andreslesmesfull.app.entity;
+
+public class User {
+
+}

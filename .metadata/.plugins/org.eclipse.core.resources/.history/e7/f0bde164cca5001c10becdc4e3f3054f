@@ -1,0 +1,5 @@
+package com.andreslesmesfull.app.repository;
+
+public interface UserReposotory {
+
+}
